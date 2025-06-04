@@ -2,7 +2,7 @@
 
 use ThatzOkay\WpdbBuilder\Translate;
 
-class Wpdb {
+class Builder {
 
 	/**
 	 * wpdb

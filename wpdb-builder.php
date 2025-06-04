@@ -31,9 +31,9 @@ Domain Path: Domain Path
 
 require 'vendor/autoload.php';
 
-use ThatzOkay\WpdbBuilder\Wpdb;
+use ThatzOkay\WpdbBuilder\Builder;
 
-$builder = new \Wpdb;
+$builder = new \Builder;
 
 $query = $builder->table('posts')->where('id', 1)->first();
 
