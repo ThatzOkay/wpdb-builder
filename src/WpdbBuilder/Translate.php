@@ -1,4 +1,4 @@
-<?php namespace WpdbBuilder;
+<?php namespace ThatzOkay\WpdbBuilder;
 
 class Translate {
 

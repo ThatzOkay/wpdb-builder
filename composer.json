@@ -1,5 +1,5 @@
 {
-    "name": "tormorten/wpdb-builder",
+    "name": "thatzokay/wpdb-builder",
     "description": "Build database queries",
     "authors": [
         {
@@ -9,8 +9,8 @@
     ],
     "require": {},
 	"autoload":	{
-		"psr-0": {
-			"WpdbBuilder": "src/"
+		"psr-4": {
+			"ThatzOkay\\WpdbBuilder\\": "src"
 		}
 	}
 }

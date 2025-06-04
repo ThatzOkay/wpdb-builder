@@ -1,6 +1,6 @@
-<?php namespace WpdbBuilder;
+<?php namespace ThatzOkay\WpdbBuilder;
 
-use WpdbBuilder\Translate;
+use ThatzOkay\WpdbBuilder\Translate;
 
 class Wpdb {
 
